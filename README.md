@@ -1,7 +1,9 @@
+# Aula Zero
+
 - [x]Setup do Banco
 - [x]Seeding do banco (Colocar Dados dentro do Banco)
 - [] Introdução ao Next.Js
-- [] Tailwind 
+- [] Tailwind Shadcn
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
